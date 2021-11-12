@@ -1,8 +1,7 @@
 ---
 title: Zhu Liang
 role: Ph.D Student in Economics
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Industrial Organization, Health Economics
 interests:
   - Artificial Intelligence
   - Computational Linguistics
