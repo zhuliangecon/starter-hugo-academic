@@ -1,6 +1,6 @@
 ---
-widget: working papers
-widget_id: my-widget-123
+widget: pages
+widget_id: working paper
 headless: true
 weight: 10
 active: true
